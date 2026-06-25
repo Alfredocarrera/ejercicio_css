@@ -1,0 +1,40 @@
+body {
+    background-color: #1A2530;
+}
+p{
+    color: beige;
+    size: 40px;
+}
+h1{
+    color: darkgray;
+    size: 80px;
+}
+h2{
+    color: azure;
+}
+a{
+    color: cornflowerblue;
+    size-adjust: 45px;
+
+}
+ul{
+    color: aliceblue;
+}
+ol{
+    color: aliceblue;
+}
+th{
+    color: aliceblue;
+    size: 40px;
+}
+td{
+    color: darkgray;
+    text-size-adjust: 25;
+}
+label{
+    color: azure;
+    text-size-adjust: 40;
+}
+input{
+    color: black;
+}
